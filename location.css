@@ -40,6 +40,9 @@ span {
   letter-spacing: 3.5px;
   cursor: pointer;
 }
+.back-button:hover {
+  background: linear-gradient(to left, #d5966c 78.5%, #151515 21.5%);
+}
 main {
   background-color: #151515;
   padding: 16px;
